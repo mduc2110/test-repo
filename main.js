@@ -30,3 +30,8 @@ function getNewsFeed() {
 function anotherFunction() {
     console.log("anotherFunction");
 }
+
+
+function anotherFunction2() {
+    console.log("anotherFunction");
+}
