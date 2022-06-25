@@ -11,3 +11,7 @@ function checkPassword() {
 function getUserInfo() {
     console.log("checkpass");
 }
+
+function getNewsFeed() {
+    console.log("checkpass");
+}
