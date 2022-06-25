@@ -21,3 +21,8 @@ function getUserInfo() {
 function getNewsFeed() {
     console.log("checkpass");
 }
+
+
+function anotherFunction() {
+    console.log("anotherFunction");
+}
