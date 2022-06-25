@@ -9,3 +9,7 @@ function login() {
 function authentication() {
     console.log("Auth");
 }
+
+function checkPassword() {
+    console.log("checkpass");
+}
