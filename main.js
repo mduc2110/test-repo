@@ -13,3 +13,7 @@ function authentication() {
 function checkPassword() {
     console.log("checkpass");
 }
+
+function getUserInfo() {
+    console.log("checkpass");
+}
